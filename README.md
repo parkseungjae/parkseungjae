@@ -4,16 +4,15 @@
 parkseungjae/parkseungjae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkseungjae&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/parkseungjae)
 
 ### Hi there 👋
- - 💻 **I'm a Web Developer**
- - 🇰🇷 **I'm practicing in South Korea**
+ - 💻 I'm a Web Developer
+ - 🇰🇷 I'm practicing in South Korea
 
 ### How to reach me? 🤔
-- 📮  **parkseungjae's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:park0915mp@gmail.com)
--  **Other email ... ** tmd0915mp@naver.com
--  ** Here are my SNS Accounts **
-- <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+- 📮  **parkseungjae's email ...** [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tmd0915mp@naver.com)](mailto:tmd0915mp@naver.com)
+-  Here are my SNS Accounts [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=mailto:park_win_97)](mailto:park_win_97)
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 ### I study these 📒
@@ -25,6 +24,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 </p>
 
+### What I Like
+- 🎮 Game
+- ⚽ FootBall ( I'm a big fan of Chelsea 🇬🇧)
+- 🍔 Hamberger
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkseungjae&&show_icons=true&theme=chartreuse-dark)]
 
