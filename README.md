@@ -13,7 +13,13 @@ You can click the Preview link to take a look at your changes.
 - 📮  **parkseungjae's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:park0915mp@gmail.com)
 
 ### I study these 📒
-[![Java Badge](http://img.shields.io/badge/language-swift-orange&logo=Java&logoColor=#007&link=링크)]
+<img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
+</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkseungjae&&show_icons=true&theme=chartreuse-dark)]
