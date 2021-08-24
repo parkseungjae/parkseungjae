@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 📮  **parkseungjae's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:park0915mp@gmail.com)
 
 ### I study these 📒
-[![Java](http://img.shields.io/badge/language-swift-orange&logo=Java&logoColor=#007&link=링크)]
+[![Java Badge](http://img.shields.io/badge/language-swift-orange&logo=Java&logoColor=#007&link=링크)]
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkseungjae&&show_icons=true&theme=chartreuse-dark)]
