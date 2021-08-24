@@ -4,7 +4,7 @@
 parkseungjae/parkseungjae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkseungjae&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/parkseungjae)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkseungjae%2Fhit-counter&count_bg=%231544A4&title_bg=%2375A2C8&icon=&icon_color=%239DAAF0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi there 👋
  - 💻 I'm a Web Developer
@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
 - ⚽ FootBall ( I'm a big fan of Chelsea 🇬🇧)
 - 🍔 Hamberger
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkseungjae&&show_icons=true&theme=chartreuse-dark)]
+![parkseungjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkseungjae&&show_icons=true&theme=algolia)
 
