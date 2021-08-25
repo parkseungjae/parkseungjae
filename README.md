@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
  - 🇰🇷 I'm practicing in South Korea
 
 ### How to reach me? 🤔
-- 📮  **parkseungjae's email ...** [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tmd0915mp@naver.com)](mailto:tmd0915mp@naver.com)
+- 📮  **My email ...** [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tmd0915mp@naver.com)](mailto:tmd0915mp@naver.com)
 -  Here are my SNS Accounts
 <a href="https://www.facebook.com/profile.php?id=100003667449712">
     <img src="http://img.shields.io/badge/-Facebook-black?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100003667449712"
