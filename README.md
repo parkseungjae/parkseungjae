@@ -12,8 +12,19 @@ You can click the Preview link to take a look at your changes.
 
 ### How to reach me? 🤔
 - 📮  **parkseungjae's email ...** [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tmd0915mp@naver.com)](mailto:tmd0915mp@naver.com)
--  Here are my SNS Accounts [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=mailto:park_win_97)](mailto:park_win_97)
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+-  Here are my SNS Accounts
+<a href="https://www.facebook.com/profile.php?id=100003667449712">
+    <img src="http://img.shields.io/badge/-Facebook-black?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100003667449712"
+         style="height:auto;margin-left:12px;margin-right:12px;"/>
+  </a>
+  <a href="https://www.instagram.com/park_win_97/">
+    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/park_win_97/"
+         style="height:auto;margin-left:12px;margin-right:12px;"/>
+  </a>
+  <a href="mailto:tmd0915mp@naver.com">
+    <img src="http://img.shields.io/badge/-Naver-black?style=flat&logo=Naver&link=tmd0915mp@naver.com"
+         style="height:auto;margin-left:12px;margin-right:12px;"/>
+  </a>
 
 ### I study these 📒
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -33,3 +44,4 @@ You can click the Preview link to take a look at your changes.
 <br>
 ![parkseungjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkseungjae&&show_icons=true&theme=algolia)
 
+  
