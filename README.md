@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 - ⚽ FootBall ( I'm a big fan of Chelsea 🇬🇧)
 - 🍔 Hamberger
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkseungjae&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkseungjae&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![parkseungjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkseungjae&&show_icons=true&theme=algolia)
 
