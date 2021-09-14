@@ -41,10 +41,6 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-### What I Like
-- 🎮 Game
-- ⚽ FootBall ( I'm a big fan of Chelsea 🇬🇧)
-- 🍔 Hamberger
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkseungjae&theme=algolia&layout=compact)](https://github.com/parkseungjae/github-readme-stats)
 <br>
