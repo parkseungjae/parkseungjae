@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
          style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
   <a href="https://www.instagram.com/park_win_97/">
-    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/park_win_97/"
+    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/sj_park__97/"
          style="height:auto;margin-left:12px;margin-right:12px;"/>
   </a>
   <a href="mailto:tmd0915mp@naver.com">
